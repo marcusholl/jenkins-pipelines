@@ -57,7 +57,7 @@ differ:
    from this repository on GitHub.com or from your own fork of it.
    In this case there is a stub `Jenkinsfile` required in the source repository.
    An ready-to-use stub pipeline script is available
-   [here](pipelines/utilities/pipelineExecutor/Jenkinsfile)
+   [here](pipelines/utility/pipelineExecutor/Jenkinsfile)
 
 # Configuration
 
