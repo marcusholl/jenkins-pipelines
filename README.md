@@ -58,6 +58,7 @@ differ:
    In this case there is a stub `Jenkinsfile` required in the source repository.
    An ready-to-use stub pipeline script is available
    [here](pipelines/utility/pipelineExecutor/Jenkinsfile)
+   ([docu](pipelines/utility/pipelineExecutor/README.md)).
 
 # Configuration
 
